@@ -23,6 +23,10 @@
 
     @media only screen and (max-width: 767px) {
         
+		h1 {
+			font-size: 25px!important;
+		}
+		
         /* Resize section titles and descriptions in the mobile viewports */
         h2 {
             font-size: 20px!important;

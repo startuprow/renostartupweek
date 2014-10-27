@@ -922,3 +922,7 @@ img { max-width: 100%; }
     clear: both; 
     visibility: hidden;
     }
+	
+.bump {
+	margin-bottom: 20px;
+}

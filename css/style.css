@@ -881,10 +881,11 @@ img { max-width: 100%; }
 	width: 150px;
 	display: inline;
 	float: left;
+	font-weight: bold;
 }
 
 .upcoming-title {
-	width: 50%;
+	width: 55%;
 	display: inline;
 	float: left;
 }
@@ -996,4 +997,8 @@ img { max-width: 100%; }
 
 .startuprow:hover {
 	background-color: #E18A25;
+}
+
+.expanded {
+	width: 75%;
 }

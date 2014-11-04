@@ -913,6 +913,15 @@ img { max-width: 100%; }
 	width: 100px;
 	display: inline;
 	float: right;
+	background-color: #394B68;
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	color: white;
+}
+
+.upcoming-action a {
+	color: white;
 }
 
 .group:after {
@@ -925,4 +934,66 @@ img { max-width: 100%; }
 	
 .bump {
 	margin-bottom: 20px;
+}
+
+.ama {
+	background-color: #00ADDC;
+	color: white;
+}
+
+.ama:hover { 
+	background-color: #00A2CE;
+}
+
+.ama a {
+	color: white;
+}
+
+.ama:hover { 
+	background-color: #00A2CE;
+}
+
+.ignite {
+	background-color: #E50F33;
+	color: white;
+}
+
+.ignite:hover {
+	background-color: #CF0D2D;
+}
+
+.swreno {
+	background-color: #F04F2B;
+	color: white;
+}
+
+.swreno:hover {
+	background-color: #DF2B02;
+}
+
+.c4 {
+	background-color: #51A847;
+	color: white;
+}
+
+.c4:hover {
+	background-color: #3B7C34;
+}
+
+.learn {
+	background-color: #00CDA0;
+	color: black;
+}
+
+.learn:hover {
+	background-color: #00BA91;
+}
+
+.startuprow {
+	background-color: #F3901C;
+	color: black;
+}
+
+.startuprow:hover {
+	background-color: #E18A25;
 }
